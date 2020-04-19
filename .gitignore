@@ -1,0 +1,4 @@
+/node_modules
+/tmp
+.env
+/src/config/auth.json
